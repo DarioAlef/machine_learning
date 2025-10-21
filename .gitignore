@@ -211,3 +211,5 @@ marimo/_lsp/
 __marimo__/
 
 C:\Users\Admin\Documents\GitHub\machine_learning\aulas\aula_24_07-10\my_mnist.mmap
+*.mat
+.\aulas\02_DeepLearning\aula_30_21-10\ex3data1.mat
