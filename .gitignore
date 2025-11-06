@@ -210,8 +210,11 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-C:\Users\Admin\Documents\GitHub\machine_learning\aulas\aula_24_07-10\my_mnist.mmap
+./aulas/02_DeepLearning/aula_24_07-10/my_mnist.mmap
 *.mat
-.\aulas\02_DeepLearning\aula_30_21-10\ex3data1.
-C:\Users\Admin\Documents\GitHub\machine_learning\aulas\02_DeepLearning\aula_33_30-10\2.8.0
+./aulas/02_DeepLearning/aula_30_21-10/ex3data1.
 ./aulas/02_DeepLearning/aula_33_30-10/2.8.0
+./aulas/02_DeepLearning/aula_35_04-11/my_fashion_mnist.pt
+./aulas/02_DeepLearning/aula_35_04-11/my_fashion_mnist_weights.pt
+./aulas/02_DeepLearning/aula_35_04-11/my_fashion_mnist_torchscript.pt
+./aulas/02_DeepLearning/aula_35_04-11/my_fashion_mnist_model.pt
