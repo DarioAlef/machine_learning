@@ -218,3 +218,6 @@ __marimo__/
 ./aulas/02_DeepLearning/aula_35_04-11/my_fashion_mnist_weights.pt
 ./aulas/02_DeepLearning/aula_35_04-11/my_fashion_mnist_torchscript.pt
 ./aulas/02_DeepLearning/aula_35_04-11/my_fashion_mnist_model.pt
+
+aulas/03_Vision/aula_49_18-12/YOLO/amostras/
+atividades/DNN_CIFAR10/data/
