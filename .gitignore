@@ -221,3 +221,7 @@ __marimo__/
 
 aulas/03_Vision/aula_49_18-12/YOLO/amostras/
 atividades/DNN_CIFAR10/data/
+aulas/03_Vision/aula_49_18-12/YOLO/yolo11n-seg.pt
+aulas/03_Vision/aula_49_18-12/YOLO/yolo11n-pose.pt
+aulas/03_Vision/aula_49_18-12/YOLO/yolo11n.pt
+runs/
