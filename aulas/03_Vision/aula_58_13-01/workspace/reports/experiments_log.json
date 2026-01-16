@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2026-01-13T18:19:08.409973",
+    "name": "baseline_nano_30ep",
+    "metrics": {
+      "map50": 0.5304201821335282,
+      "map50-95": 0.26154972005106325,
+      "precision": 0.6828532259794636,
+      "recall": 0.5026972586500285
+    },
+    "params": {
+      "data": "c:\\Users\\dario\\Documents\\GitHub\\machine_learning\\aulas\\03_Vision\\aula_58_13-01\\workspace\\datasets\\ppe_v1\\data.yaml",
+      "epochs": "30",
+      "imgsz": "640",
+      "batch": "16",
+      "project": "c:\\Users\\dario\\Documents\\GitHub\\machine_learning\\aulas\\03_Vision\\aula_58_13-01\\workspace\\runs",
+      "name": "baseline_v1",
+      "exist_ok": "True",
+      "amp": "True",
+      "cache": "True",
+      "patience": "10",
+      "device": "0",
+      "verbose": "True"
+    },
+    "save_dir": "C:\\Users\\dario\\Documents\\GitHub\\machine_learning\\aulas\\03_Vision\\aula_58_13-01\\workspace\\runs\\baseline_v1"
+  }
+]

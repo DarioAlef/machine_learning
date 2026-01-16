@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/dario/Documents/GitHub/machine_learning/aulas/03_Vision/aula_58_13-01/workspace/mlruns/495302465107904013/56f3c8f8b2d54097a340de9b2986c3b6/artifacts
+end_time: 1768342747909
+entry_point_name: ''
+experiment_id: '495302465107904013'
+lifecycle_stage: active
+run_id: 56f3c8f8b2d54097a340de9b2986c3b6
+run_name: baseline_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768340418057
+status: 3
+tags: []
+user_id: dario
